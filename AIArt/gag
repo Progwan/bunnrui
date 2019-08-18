@@ -1,0 +1,4 @@
+#!/bin/bash
+git add index.php
+git commit -m "sdg"
+git push heroku master
