@@ -38,6 +38,7 @@ if($m=="mv"){
 <head><meta charset="utf-8"><title>アサガオとヨルガオの振り分け</title>
 <meta name="viewport" content="width=300px">
 <style>body{text-align: center;}</style></head><body>
+<h1>機械学習のデータの分類</h1><br><br>
 <h1>アサガオとヨルガオを振り分けてください！ご協力お願いします！</h1>
 <h3 style="font-size:12px;">分け方：余計なものが入っている場合はその他です。
 アサガオの画像はアサガオ、ヒルガオの画像はヒルガオに分類してください。
