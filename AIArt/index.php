@@ -35,7 +35,7 @@ if($m=="mv"){
 	}
 	echo <<<EOS
 <html lang="ja">
-<head><meta charset="utf-8"><title>アサガオとヨルガオの振り分け</title>
+<head><meta charset="utf-8"><title>機械学習のデータ分類に協力してください！</title>
 <meta name="viewport" content="width=300px">
 <style>body{text-align: center;}</style></head><body>
 <h1>機械学習のデータの分類</h1><br><br>
@@ -44,7 +44,7 @@ if($m=="mv"){
 アサガオの画像はアサガオ、ヒルガオの画像はヒルガオに分類してください。
 それ以外はその他です。</h3>
 <h5>もしAlreadyとでたら、そのリンクをクリックしてください。</h5>
-<h2>残り$remain  枚</h2>
+<h1>残り$remain  枚</h1>
 <img src="./image/$unknown/$target" width="120" height="120"><br><br>$buttons
 <footer>
 <div>
